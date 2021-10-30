@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Apogee - pinnacle
 Frivolous- trivial or silly or not serious
+=======
+Apogge - pinnacle
+frivolous - trivial or silly
+>>>>>>> upstream/main
